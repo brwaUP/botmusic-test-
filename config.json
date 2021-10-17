@@ -1,9 +1,9 @@
 {
-  "TOKEN": "",
-  "YOUTUBE_API_KEY": "",
+  "TOKEN": "https://discord.com/api/oauth2/authorize?client_id=875496620605710417&permissions=8&scope=bot",
+  "YOUTUBE_API_KEY": "AlzaSyDvq60vZMxOjaWc6EnGSCktOUsyEu09ld",
   "SOUNDCLOUD_CLIENT_ID": "",
   "MAX_PLAYLIST_SIZE": 10,
-  "PREFIX": "/",
+  "PREFIX": "+",
   "PRUNING": false,
   "LOCALE": "en",
   "STAY_TIME": 30,
